@@ -21,3 +21,7 @@ add5()
 
 console.log(number)
 
+//reset number
+number = 10
+
+
