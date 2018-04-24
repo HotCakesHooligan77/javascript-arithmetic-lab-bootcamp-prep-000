@@ -32,4 +32,3 @@ divideBy3()
 
 console.log(number)
 
-parseInt
